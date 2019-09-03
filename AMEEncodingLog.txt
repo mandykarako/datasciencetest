@@ -1,15 +1,1 @@
-﻿
-Log File Created: 04/05/2017 03:47:21 PM
------------------------------------------
-
-
-04/05/2017 03:47:21 PM : Queue Started
-
-
- - Source File: /Users/mandykarako/Library/Caches/TemporaryItems/VOSOT.prproj
- - Output File: /Users/mandykarako/Documents/MVI_0801_1.mov
- - Preset Used: PAL DV Widescreen
- - Video: 720x576 (1.4587), 25 fps, Lower, Quality 100, DV25 PAL, 00:00:51:08
- - Audio: Uncompressed, 48000 Hz, Stereo, 16 bit
- - Bitrate: 
- - Encoding Time: 00:00:45
+fdjglker
